@@ -8,7 +8,9 @@
 
 3) ./sugar (core number, default is 1)  -> This sentence execute code.
 
-4) This code generate 4 output files
+4) You can see executation time at process finish.
+
+5) This code generate 4 output files
   - gen_people_list.txt     =>  Initial state of peoples
   - sugar_map.txt           =>  Initial state of map
   - output_people_list.txt  =>  Final state of peoples
