@@ -1,0 +1,22 @@
+total_loop	20
+map_size	200
+total_people    500000	
+min_map_sugar	10
+max_map_sugar	100
+min_eating	20
+max_eating	40
+min_consume	15
+max_consume	30
+min_sugar	10
+max_sugar	100
+random_seed_map_x	1
+random_seed_map_y	2
+random_seed_map_z	3
+random_seed_map_sugar	4
+random_seed_people_x	5
+random_seed_people_y	6
+random_seed_people_z	7
+random_seed_people_eat	8
+random_seed_people_consume	9
+random_seed_people_sugar	10
+

@@ -1,0 +1,3 @@
+Total people: 1
+Index	x_axis	y_axis	z_axis	eating	consume	sugar
+1	0	3	3	30	22	856
