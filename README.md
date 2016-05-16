@@ -2,7 +2,7 @@
 
 ** This codes are made in the linux **
 
-1) You must place test_setup.txt in the same folder with executable file.
+1) You must place test_setup.txt(in the test_case folder) in the same folder with executable file.
 
 2) You can make executable file through Makefile (just enter "make" at terminal)
 
